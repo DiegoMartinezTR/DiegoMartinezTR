@@ -66,4 +66,4 @@ Please take a look to my pinned repositories that are the ones with highest func
 
 ## About my github
 All the information shown in the frames below just describes what I use more in my github but my skills are not limited only in this.
-[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoMartinezTR&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMartinezTR&layout=compact&theme=radical)](#)
+[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoMartinezTR&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMartinezTR&layout=compact&theme=radical&count_private=true)](#)
