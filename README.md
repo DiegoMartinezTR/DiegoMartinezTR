@@ -64,6 +64,6 @@ Please take a look to my pinned repositories that are the ones with highest func
 - Please visit mi linkedIn for more professional information by clicking the linked In button at the top of this README.
 - Also this is my account at thomson reuters but if you want to see my personal projects you can go there by clicking [here](https://github.com/dmtzs/dmtzs)
 
-<!--## About my github
+## About my github
 All the information shown in the frames below just describes what I use more in my github but my skills are not limited only in this.
-[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoMartinezTR&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMartinezTR&layout=compact&theme=radical)](#)-->
+[![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoMartinezTR&show_icons=true&theme=radical)](#)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMartinezTR&layout=compact&theme=radical)](#)
